@@ -2,7 +2,7 @@
 
 Swift version of NBTouchAndHoldButton https://github.com/balazsnemeth/NBTouchAndHoldButton
 
-Touch and hold a button, so it's action will be called repeatedly based on interval you set.
+Touch and hold a button, so its action will be called repeatedly based on interval you set.
 Good for the backspace button on a custom keyboard:
     
     let backspaceButton: TouchAndHoldButton = TouchAndHoldButton(frame: myFrame)
